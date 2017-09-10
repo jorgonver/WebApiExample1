@@ -1,4 +1,6 @@
-﻿namespace WebApiExample.Domain.Entities
+﻿using System;
+
+namespace WebApiExample.Domain.Entities
 {
     public class User
     {
